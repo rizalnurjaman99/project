@@ -1,0 +1,2 @@
+# project
+ini hanya latihan
